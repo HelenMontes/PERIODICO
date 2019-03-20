@@ -1,0 +1,55 @@
+body{
+background-color: lightblue;
+
+}
+
+.banner{
+margin: auto;
+width: 1024px;
+
+}
+
+.container{
+  margin-top: 0;
+  padding-top: 0;
+  margin: auto;
+  width: 1024px;
+  height: auto;
+  background-color: white;
+}
+
+
+aside{
+  float: right;
+  width: 40%;
+}
+
+section{
+float: left;
+width: 60%;
+
+}
+
+footer{
+margin-top: 0;
+padding-top: 0;
+margin: auto;
+width: 1024px;
+height: 100px;
+background-color: lightcoral;
+
+}
+.imagen{
+  margin: auto;
+  width: 300px;
+
+}
+
+
+
+.piepagina{
+font-size: 20px;
+text-align: center;
+margin-top: 0;
+
+}
